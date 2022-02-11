@@ -1,4 +1,4 @@
-# Professional-Portfolio-
+# Run Buddy Inc. 
 ## Purpose 
 A Webiste that offers fitness training servies, 
 
