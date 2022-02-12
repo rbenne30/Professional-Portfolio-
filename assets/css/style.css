@@ -29,6 +29,7 @@ nav{
 
 .flex-container {
   display: flex;
+  flex-shrink: inherit;
 }
 footer{
   word-spacing: 30px;
