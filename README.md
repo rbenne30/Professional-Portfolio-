@@ -1,16 +1,15 @@
-# Run Buddy, Inc
+# Professional Portfolio 
 
 ## Purpose
-A website that offers fitness training services. 
+Create a portfolio page that I can add to as the course progresses 
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+http://127.0.0.1:5500/Professional-Portfolio-/index.html#
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Ryanne Bennett
 
-### ©️2019 Run Buddy, Inc 
