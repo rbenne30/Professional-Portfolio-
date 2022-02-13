@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  border: 2px solid red;
+  border: 2px solid rebeccapurple;
 }
 
 body {
@@ -30,6 +30,9 @@ nav{
 .flex-container {
   display: flex;
   flex-shrink: inherit;
+}
+div h3 {
+  padding-top: 50px;
 }
 footer{
   word-spacing: 30px;
