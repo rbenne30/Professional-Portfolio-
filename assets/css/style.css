@@ -28,12 +28,14 @@ nav{
 }
 
 .flex-container {
-  display: flex;
-  flex-shrink: inherit;
+  display: flex; 
+  flex-shrink: inherit; flex-wrap: wrap;
 }
 div h3 {
-  padding-top: 50px;
+  padding-top: 10px;
 }
 footer{
   word-spacing: 30px;
+  padding-top: 50px;
+  font-size: larger;
   }
