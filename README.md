@@ -1,7 +1,7 @@
 # Professional Portfolio 
 
 ## Purpose
-Create a portfolio page that I can add to as the course progresses 
+An application for creating a portfolio using CSS. 
 
 ## Built With
 * HTML
